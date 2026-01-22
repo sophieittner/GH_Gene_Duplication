@@ -1,0 +1,42 @@
+(((((((((((((Acanthisitta_chloris_1,
+             (((((Cephalopterus_ornatus_1, Tyrannus_savana_1), (Neopelma_chrysocephalum_1, Pipra_filicauda_1)), (Sakesphorus_luctuosus_1, Campylorhamphus_procurvoides_1)), (Serilophus_lunatus_1, Pitta_sordida_1)),
+              ((((((((((((Agelaius_phoeniceus_1, Junco_hyemalis_1), Passerina_amoena_1), Serinus_canaria_1), Passer_domesticus_1), Promerops_cafer_1), (Bombycilla_garrulus_1, Certhia_familiaris_1)), (Poecile_atricapillus_1, Cisticola_juncidis_1)), Melanocharis_versteri_1), (Edolisoma_coerulescens_1, Daphoenositta_chrysoptera_1)), (Dasyornis_broadbenti_1, Origma_solitaria_1)), Climacteris_rufus_1), Menura_novaehollandiae_1))
+            ),
+            (Acanthisitta_chloris_2,
+             (((((Cephalopterus_ornatus_2, Tyrannus_savana_2), (Neopelma_chrysocephalum_2, Pipra_filicauda_2)), (Sakesphorus_luctuosus_2, Campylorhamphus_procurvoides_2)), (Serilophus_lunatus_2, Pitta_sordida_2)),
+              ((((((((((((Agelaius_phoeniceus_2, Junco_hyemalis_2), Passerina_amoena_2), Serinus_canaria_2), Passer_domesticus_2), Promerops_cafer_2), (Bombycilla_garrulus_2, Certhia_familiaris_2)), (Poecile_atricapillus_2, Cisticola_juncidis_2)), Melanocharis_versteri_2), (Edolisoma_coerulescens_2, Daphoenositta_chrysoptera_2)), (Dasyornis_broadbenti_2, Origma_solitaria_2)), Climacteris_rufus_2), Menura_novaehollandiae_2))
+            )
+           ), 
+           (Strigops_habroptila, Melopsittacus_undulatus)
+           ), 
+          Falco_peregrinus),
+         Chunga_burmeisteri), 
+         ((((((((Galbula_dea, Eubucco_bourcierii), (Merops_nubicus, (Halcyon_senegalensis, Baryphthengus_martii))), (Bucorvus_abyssinicus, Upupa_epops)), (Apaloderma_vittatum, Trogon_melanurus)), Leptosomus_discolor), Urocolius_indicus),
+           (Sagittarius_serpentarius, Aquila_chrysaetos)
+          ),
+          (Tyto_alba, Strix_occidentalis_caurina)
+         )
+        ),
+       (((Ciconia_maguari, Pelecanoides_urinatrix), Gavia_stellata),
+       Phaethon_lepturus)
+      ),
+      ((((((Hemiprocne_comata, Chaetura_pelagica), Calypte_anna), Podargus_strigoides),
+        Nyctibius_grandis), 
+       Steatornis_caripensis),
+      Antrostomus_carolinensis)
+     ),
+     ((((Alca_torda, Turnix_velox),
+        (Limosa_lapponica, Calidris_pygmaea)
+       ),
+       Charadrius_alexandrinus),
+      ((Heliornis_fulica, Balearica_regulorum), ((Corythaeola_cristata, Ardeotis_kori), Cuculus_canorus))
+     )
+    ),
+    (((Columba_livia, Alopecoenas_beccarii), Syrrhaptes_paradoxus), (Phoenicopterus_ruber, Podilymbus_podiceps))
+   ),
+   Opisthocomus_hoazin
+  ),
+  ((((Anser_cygnoides, Cairina_moschata), Anseranas_semipalmata), Chauna_torquata), ((((Phasianus_colchicus, Gallus_gallus), Numida_meleagris), Penelope_pileata), Alectura_lathami))
+ ),
+ ((Crypturellus_cinnamomeus, Nothoprocta_pentlandii), (Apteryx_rowi, Rhea_americana))
+);
