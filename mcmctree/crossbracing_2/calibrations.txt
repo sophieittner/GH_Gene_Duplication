@@ -1,0 +1,30 @@
+Fossil Calibrations
+All ages are given in millions of years (Ma)
+
+Node 1: Neoornithes
+Min.: 66.55
+Max.: 86.0
+
+Node 2: Galloanserae
+Min.: 61.1
+Max.: 86.0
+
+Node 3: Mirandornithes
+Min.: 33.1
+Max.: 46.6
+
+Node 4: Columbimorphae
+Min.: 23.9
+Max.: 52.0
+
+Node 5: Crown Nestoridae
+Min.: 15.9
+Max.: 27.29
+
+Node 6: Psittacopasseres
+Min.: 53.5
+Max.: 66.04
+
+Node 7: Eupasseres
+Min.: 27.1
+Max.: 56.0
