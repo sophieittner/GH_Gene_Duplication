@@ -6,4 +6,4 @@ raxmlHPC.exe \
 -x 12345 \
 -# 1000 \
 -f a \
--g ../data/ConstraintTree.tree
+-g ../data/constraint_tree.tree
