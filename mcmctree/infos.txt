@@ -1,0 +1,19 @@
+This folder contains all MCMCTree analyses for dating the passerine GH gene duplication.
+Each folder is named according to the distribution used for added fossil calibrations.
+
+Inside each folder:
+GH_CDS_Alignment.phy       : coding sequence alignment used for the analysis (same for all analyses)
+calibrations.txt           : fossil calibrations used (same for all analyses, so far)
+(distribution)_tree.trees  : starting tree with added fossil calibrations
+ 
+Each folder contains subfolders for different settings of usedata:
+prior/   : no data used (usedata = 0)
+hessian/ : branch length estimation (usedata = 3)
+approx/  : approximate likelihood calculation (usedata = 2)
+Each subfolder (prior/, hessian/, approx/) contains its control file and output files from that step.
+So far, I have uploaded the FigTree.tre output for both prior/ and approx/
+
+The duplication node of interest (GH gene duplication in passerines) corresponds to node t_n509 in the trees.
+To reproduce a run, go into the analysis folder and run MCMCTree using the ctl file in the appropriate subfolder (hessian/ or approx/).
+
+
