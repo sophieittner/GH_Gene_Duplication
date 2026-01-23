@@ -10,20 +10,24 @@ Each folder contains subfolders for different settings of usedata:
 prior/   : no data used (usedata = 0)
 hessian/ : branch length estimation (usedata = 3)
 approx/  : approximate likelihood calculation (usedata = 2)
-Each subfolder (prior/, hessian/, approx/) contains its control file and output files from that step.
-So far, I have uploaded the FigTree.tre output for both prior/ and approx/
+Each subfolder contains: 
+- its control file (.ctl)
+- the output files generated during that step ( Currently only the FigTree.tre output for prior/ and approx/)
 
 The duplication node of interest (GH gene duplication in passerines) corresponds to node number 509.
+To reproduce a run:
 
-To reproduce a run, set the base directory of the analysis:
+# set the base directory of the analysis
+base= # replace this with the path to the analysis folder
 
-base= (enter path to analysis folder)
-
+# step 1: estimates branch lengths
 cd $base/hessian
 mcmctree mcmctree.ctl
 
+# step 2: copy out.BV into the approx/ subfolder and rename it to in.BV automatically
 cp out.BV $base/approx/in.BV
 
+# step 3: performs the dating analysis using the branch lengths
 cd $base/approx
 mcmctree mcmctree.ctl
 
