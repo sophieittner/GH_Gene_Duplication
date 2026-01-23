@@ -3,7 +3,7 @@ Each folder is named according to the distribution used for added fossil calibra
 
 Inside each folder:
 GH_CDS_Alignment.phy       : coding sequence alignment used for the analysis (same for all analyses)
-calibrations.txt           : fossil calibrations used (same for all analyses, so far)
+calibrations.txt           : all fossil calibrations with the corresponding distribution notation
 (distribution)_tree.trees  : starting tree with added fossil calibrations
  
 Each folder contains subfolders for different settings of usedata:
