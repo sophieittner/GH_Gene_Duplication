@@ -1,6 +1,6 @@
 Fossil Calibrations
 All fossil calibrations along with the distribution used for each node are listed here.
-Ages are given in millions of years (Ma)
+Ages are given in millions of years (Ma).
 
 Node 1: Neoornithes
 Min.: 66.55
