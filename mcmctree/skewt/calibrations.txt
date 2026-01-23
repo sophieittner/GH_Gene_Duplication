@@ -5,27 +5,35 @@ Ages are given in millions of years (Ma).
 Node 1: Neoornithes
 Min.: 66.55
 Max.: 86.0
+'ST(66.55,7.384,100,10)'
 
 Node 2: Galloanserae
 Min.: 61.1
 Max.: 86.0
+'ST(61.1,9.454,100,10)'
 
 Node 3: Mirandornithes
 Min.: 33.1
 Max.: 46.6
+'ST(33.1,5.125,100,10)'
 
 Node 4: Columbimorphae
 Min.: 23.9
 Max.: 52.0
+'ST(23.9,10.669,100,10)'
 
 Node 5: Crown Nestoridae
 Min.: 15.9
 Max.: 27.29
+'ST(15.9,4.324,100,10)'
 
 Node 6: Psittacopasseres
 Min.: 53.5
 Max.: 66.04
+'ST(53.5,4.761,100,10)'
 
-Node 7: Eupasseres
+Node 7: Eupasseres: duplicated node -> repeated once for GH1 and once for GH2
 Min.: 27.1
 Max.: 56.0
+'ST(27.1,10.972,100,10)'
+'ST(27.1,10.972,100,10)'
